@@ -8,7 +8,7 @@ Vulnerable testing application (VulnerableHTTPServer.java), which helps you test
 
 ***Getting JDK***
 
-If you dont want to go to the Oracle page and register, you can download the JDK directly from me in: http://www.joaomatosf.com/rnp/?prefix=rnp/java_files/
+If you dont want to go to the Oracle page and register, you can download the JDK directly from : http://www.joaomatosf.com/rnp/?prefix=rnp/java_files/
 
 As **root**, run:
 ```
