@@ -43,8 +43,8 @@ As **root**, run:
 ***Getting codes:***
 
 ```
-$ git clone https://github.com/joaomatosf/JavaDeserH2HC.git
-$ cd JavaDeserH2HC
+$ git clone https://github.com/dpredrag/Java-Deserialization-.git
+$ cd Java-Deserialization-
 ```
 
 ***Compiling and executing Vulnerable Web Application:***
