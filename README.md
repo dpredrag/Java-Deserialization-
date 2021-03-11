@@ -3,10 +3,7 @@
 
 Content
 --
-The lab contains code samples that help you understand deserialization vulnerabilities and how gadget chains exploit them. 
-The goal is to provide a better understanding so that you can develop new payloads and/or better design your environments.
-
-There is also a vulnerable testing application (VulnerableHTTPServer.java), which helps you test your payloads.
+Vulnerable testing application (VulnerableHTTPServer.java), which helps you test your payloads.
 
 
 
@@ -19,8 +16,6 @@ Examples (PoC's)
 
 [![Alt text](https://img.youtube.com/vi/JIWMItSA8l0/0.jpg)](https://www.youtube.com/watch?v=JIWMItSA8l0)
 
-
-[![Alt text](https://img.youtube.com/vi/IrZOlqio0nw/0.jpg)](https://www.youtube.com/watch?v=IrZOlqio0nw)
 
 
 
