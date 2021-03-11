@@ -6,19 +6,6 @@ Content
 Vulnerable testing application (VulnerableHTTPServer.java), which helps you test your payloads.
 
 
-
-Examples (PoC's)
-------
-
-
-[![Alt text](https://img.youtube.com/vi/jVMr4eeJ2Po/0.jpg)](https://www.youtube.com/watch?v=jVMr4eeJ2Po)
-
-
-[![Alt text](https://img.youtube.com/vi/JIWMItSA8l0/0.jpg)](https://www.youtube.com/watch?v=JIWMItSA8l0)
-
-
-
-
 ***Getting JDK***
 
 If you dont want to go to the Oracle page and register, you can download the JDK directly from me in: http://www.joaomatosf.com/rnp/?prefix=rnp/java_files/
@@ -118,3 +105,12 @@ Data deserialized!
 $ ls -all /tmp/h2hc_2017
 -rw-r--r-- 1 joao joao 0 mar 11 22:47 /tmp/h2hc_2017
 ```
+
+Examples (PoC's)
+------
+
+
+[![Alt text](https://img.youtube.com/vi/jVMr4eeJ2Po/0.jpg)](https://www.youtube.com/watch?v=jVMr4eeJ2Po)
+
+
+[![Alt text](https://img.youtube.com/vi/JIWMItSA8l0/0.jpg)](https://www.youtube.com/watch?v=JIWMItSA8l0)
